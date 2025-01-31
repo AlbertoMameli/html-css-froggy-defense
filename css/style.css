@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(215, 225, 212);
+}
+
+
+.cont-ex {
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(215, 225, 212);
+
+
+}
+
+
+img {
+    width: 45%;
+}
+
+
+.title {
+    background-color: rgb(111, 189, 180);
+    border-radius: 16px;
+    padding: 10px;
+    margin: 20px 0;
+
+}
